@@ -1,0 +1,13 @@
+iqoptionapi
+websocket-client
+python-dotenv
+python-telegram-bot
+rich
+pandas
+numpy
+schedule
+pyyaml
+sqlalchemy
+requests
+colorama
+aiohttp
